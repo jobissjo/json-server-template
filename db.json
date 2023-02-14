@@ -1,0 +1,51 @@
+{
+  "seller": [],
+  "products": [
+    {
+      "name": "Infinix Note 12 pro",
+      "price": "15000",
+      "color": "Blue",
+      "category": "Mobile",
+      "description": "This is good infinix mobile for budget",
+      "image": "https://cdn1.smartprix.com/rx-iITLa82JZ-w420-h420/infinix-smart-6-hd.jpg",
+      "id": 1
+    },
+    {
+      "name": "Samsung m52",
+      "price": "12000",
+      "color": "red",
+      "category": "Mobile",
+      "description": "This is budget phone of samsung",
+      "image": "https://vlebazaar.in/image/cache/wp/gj/Samsung-Galaxy-M52-5G-ICY-Blue-8GB-RAM-128GB-Storage-Latest-Snapdragon-7/Samsung-Galaxy-M52-5G-ICY-Blue-8GB-RAM-128GB-Storage-Latest-Snapdragon-778G-5G-s-550x550h.webp",
+      "id": 2
+    },
+    {
+      "name": "iphone 12 pro max",
+      "price": "100000",
+      "color": "red",
+      "category": "mobile",
+      "description": "This is good mobile it looks clasics",
+      "image": "https://images.unsplash.com/photo-1607936854279-55e8a4c64888?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aXBob25lJTIwMTJ8ZW58MHx8MHx8&w=1000&q=80",
+      "id": 3
+    },
+    {
+      "name": "Samsung Smart Tv",
+      "price": "50000",
+      "color": "red",
+      "category": "Tv",
+      "description": "This is one of the best product available",
+      "image": "https://media.viveks.com/media/catalog/product/cache/88ca3c9c4ebc2244cd2bf601271fd1f0/1/0/101444_1.jpg",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "Jobi S S",
+      "email": "jobi@gmail.com",
+      "password": "12345678",
+      "id": 1
+    }
+  ],
+  "carts": [],
+  "orders": []
+}
