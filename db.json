@@ -9,33 +9,39 @@
     {
       "name": "joy",
       "email": "joy@gm.com",
-      "password": "joy1234",
+      "password": "joy12345",
       "id": 2
+    },
+    {
+      "name": "demo",
+      "email": "demo@gmail.com",
+      "password": "123456789",
+      "id": 3
     }
   ],
   "products": [
     {
       "name": "Infinix Note 12 pro",
-      "price": "15000",
+      "price": "14000",
       "color": "Blue",
       "category": "mobile",
       "description": "This is good infinix mobile for budget",
       "image": "https://cdn1.smartprix.com/rx-iITLa82JZ-w420-h420/infinix-smart-6-hd.jpg",
-      "sellerId": 1,
-      "id": 1
+      "id": 1,
+      "sellerId": 1
     },
     {
-      "name": "Samsung m52",
-      "price": "12000",
-      "color": "red",
+      "name": "Samsung m52 pro",
+      "price": "11000",
+      "color": "black",
       "category": "mobile",
       "description": "This is budget phone of samsung",
       "image": "https://vlebazaar.in/image/cache/wp/gj/Samsung-Galaxy-M52-5G-ICY-Blue-8GB-RAM-128GB-Storage-Latest-Snapdragon-7/Samsung-Galaxy-M52-5G-ICY-Blue-8GB-RAM-128GB-Storage-Latest-Snapdragon-778G-5G-s-550x550h.webp",
-      "sellerId": 1,
-      "id": 2
+      "id": 2,
+      "sellerId": 1
     },
     {
-      "name": "iphone 12 pro max",
+      "name": "Iphone 12 pro max",
       "price": "100000",
       "color": "red",
       "category": "mobile",
@@ -111,8 +117,8 @@
       "category": "mobile accessories",
       "description": "CareFone Liquid Case designed with Anti-Slip Grip which Gives Perfect Grip for your device",
       "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/cases-covers/back-cover/y/v/o/samf13-liquid-blue-1-carefone-original-imaggd259eygbd3g.jpeg?q=70",
-      "sellerId": 1,
-      "id": 10
+      "id": 10,
+      "sellerId": 1
     },
     {
       "name": "boAt Rockerz 255 Pro+",
@@ -121,8 +127,8 @@
       "category": "mobile accessories",
       "description": "boAt Rockerz 255 Pro+ is a power-packed in-ear wireless neckband headphone that has been ergonomically designed to meet the needs of music lovers",
       "image": "https://rukminim1.flixcart.com/image/416/416/l31x2fk0/headphone/0/z/e/-original-image9egyqndhqhb.jpeg?q=70",
-      "sellerId": 1,
-      "id": 11
+      "id": 11,
+      "sellerId": 1
     },
     {
       "name": "Neck Light Blue T-Shirt",
@@ -215,16 +221,6 @@
       "id": 21
     },
     {
-      "name": "G 7 kg Fully Automatic Front Load with In-built Heater Black Washing Machine",
-      "price": "20000",
-      "color": "grey",
-      "category": "home appliances",
-      "description": "\nWash your clothes easily with the LG 7 kg Fully Automatic Front-loading Washing Machine. Featuring the Six Motion Direct Drive technology, this washing machine can clean your clothes in a gentle, caring manner",
-      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/washing-machine-new/m/q/l/7-60-fhm1207sdm-5-0-05-44-60-lg-85-original-imaghbstmpqxntaz.jpeg?q=70",
-      "sellerId": 1,
-      "id": 22
-    },
-    {
       "name": "Shopeleven Push Up Bar with Foam Grip Handle for Chest Workout home",
       "price": "200",
       "color": "blue",
@@ -243,13 +239,93 @@
       "image": "https://rukminim1.flixcart.com/image/416/416/l2jcccw0/mobile/i/p/o/-original-imagdu8j9vxscfdh.jpeg?q=70",
       "sellerId": 2,
       "id": 24
+    },
+    {
+      "name": "Think Like a Monk",
+      "price": "200",
+      "color": "Blue",
+      "category": "book",
+      "description": "Jay Shetty, social media superstar and host of the #1 podcast On Purpose, distills the timeless wisdom he learned as a monk into practical steps anyone can take every day to live a less anxious",
+      "sellerId": 2,
+      "image": "data:image/webp;base64,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",
+      "id": 25
+    },
+    {
+      "name": "Atomic Habit",
+      "price": "300",
+      "color": "White",
+      "category": "book",
+      "description": "James Clear, an expert on habit formation, reveals practical strategies that will teach you how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results",
+      "image": "data:image/webp;base64,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",
+      "sellerId": 2,
+      "id": 26
+    },
+    {
+      "name": "Krin Fitness PVC Home Gym Set ",
+      "price": "300",
+      "color": "black",
+      "category": "sports",
+      "description": "Anti-slip Handle: Its non-slip texture dumbbell handle gives you a comfortable feeling during the whole process of your exercise. ",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/kit/f/v/v/pvc-home-gym-set-8kg-2kg-4pcs-plate-with-dumbbell-rod-gym-original-imagg6np4hd83fpd.jpeg?q=70",
+      "sellerId": 2,
+      "id": 27
+    },
+    {
+      "name": "Canon EOS M50 Mark II Mirrorless Camera",
+      "price": "30000",
+      "color": "black",
+      "category": "electronics",
+      "description": "This is a budget camera in canon ",
+      "image": "https://rukminim1.flixcart.com/image/416/416/knyxqq80/dslr-camera/r/y/x/digital-camera-eos-m50-mark-ii-eos-m50-mark-ii-canon-original-imag2gzkexzqhyhu.jpeg?q=70",
+      "sellerId": 1,
+      "id": 28
+    },
+    {
+      "name": "Wndr-13 sports shoes for men",
+      "price": "400",
+      "color": "green",
+      "category": "sports",
+      "description": "This shoe is for sports and gyms",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/e/5/8/-original-imagg6rytzbdzehf.jpeg?q=70",
+      "sellerId": 1,
+      "id": 29
+    },
+    {
+      "name": "The Psychology of Money - BY Morgen Housel",
+      "price": "200",
+      "color": "black",
+      "category": "book",
+      "description": "\nTimeless lessons on wealth, greed, and happiness doing well with money isn?t necessarily about what you know. It?s about how you behave.",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/book/k/j/t/the-psychology-of-money-original-imag9kdyxhr6gdbj.jpeg?q=70",
+      "sellerId": 1,
+      "id": 30
+    },
+    {
+      "name": "SAMSUNG 253 L Frost Free Double Door 3 Star Refrigerator",
+      "price": "20000",
+      "color": "Grey",
+      "category": "home appliances",
+      "description": "\nYou can keep your perishables fresh and ready for consumption inside the Samsung 253 L refrigerator (RT28A3021S8/HL) which provides efficient cooling while saving energy and keeping the operational noise level to a minimum.",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/refrigerator-new/9/y/y/-original-imagkgpq9thhchfz.jpeg?q=70",
+      "sellerId": 1,
+      "id": 31
+    },
+    {
+      "name": "Saree",
+      "price": "600",
+      "color": "pink",
+      "category": "fashions",
+      "description": "This is brand new saree",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/d/3/b/free-1-shalu-opara-silk-saree-pure-cotton-sarees-for-summer-original-imagcm6tam9p84dy-bb.jpeg?q=70",
+      "id": 32,
+      "sellerId": 1
     }
   ],
   "users": [
     {
       "name": "Jobi S S",
       "email": "jobi@gmail.com",
-      "password": "12345678",
+      "password": "123456789",
       "id": 1
     },
     {
@@ -287,114 +363,37 @@
       "email": "jobi@gdsfmail.com",
       "password": "12345678",
       "id": 7
+    },
+    {
+      "name": "Test",
+      "email": "test@gmail.com",
+      "password": "123456789",
+      "id": 8
     }
   ],
   "carts": [
     {
       "name": "Infinix Note 12 pro",
-      "price": "15000",
+      "price": "14000",
       "color": "Blue",
       "category": "mobile",
       "description": "This is good infinix mobile for budget",
       "image": "https://cdn1.smartprix.com/rx-iITLa82JZ-w420-h420/infinix-smart-6-hd.jpg",
-      "sellerId": 1,
       "id": 1,
+      "sellerId": 1,
       "productId": 1,
-      "userId": 1,
-      "quantity": 1
-    },
-    {
-      "name": "Samsung m52",
-      "price": "12000",
-      "color": "red",
-      "category": "mobile",
-      "description": "This is budget phone of samsung",
-      "image": "https://vlebazaar.in/image/cache/wp/gj/Samsung-Galaxy-M52-5G-ICY-Blue-8GB-RAM-128GB-Storage-Latest-Snapdragon-7/Samsung-Galaxy-M52-5G-ICY-Blue-8GB-RAM-128GB-Storage-Latest-Snapdragon-778G-5G-s-550x550h.webp",
-      "sellerId": 1,
-      "id": 2,
-      "productId": 2,
-      "userId": 1,
-      "quantity": 1
-    },
-    {
-      "name": "iphone 12 pro max",
-      "price": "100000",
-      "color": "red",
-      "category": "mobile",
-      "description": "This is good mobile it looks clasics",
-      "image": "https://images.unsplash.com/photo-1607936854279-55e8a4c64888?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aXBob25lJTIwMTJ8ZW58MHx8MHx8&w=1000&q=80",
-      "sellerId": 1,
-      "id": 3,
-      "productId": 3,
-      "userId": 1,
-      "quantity": 1
-    },
-    {
-      "name": "Samsung Smart Tv",
-      "price": "50000",
-      "color": "red",
-      "category": "Tv",
-      "description": "This is one of the best product available",
-      "image": "https://media.viveks.com/media/catalog/product/cache/88ca3c9c4ebc2244cd2bf601271fd1f0/1/0/101444_1.jpg",
-      "sellerId": 1,
-      "id": 4,
-      "productId": 4,
-      "userId": 1,
-      "quantity": 1
-    },
-    {
-      "name": "amBoora 3X3X3 SPEED CUBE",
-      "price": "138",
-      "color": "Multi",
-      "category": "toy",
-      "description": "The color of some product parts may vary from what is shown in the image",
-      "image": "https://rukminim1.flixcart.com/image/416/416/kikluvk0-0/puzzle/y/k/x/1-3x3x3-speed-cube-high-staybility-sticker-less-smooth-swing-for-original-imafybxtmp9c2zth.jpeg?q=70",
-      "sellerId": 1,
-      "id": 5,
-      "productId": 5,
-      "userId": 1,
-      "quantity": 1
-    },
-    {
-      "name": "Helicopter Toy",
-      "price": "500",
-      "color": "blue",
-      "category": "toy",
-      "description": "Remote controller, charging cable,Remote Control Helicopters)\n",
-      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/remote-control-toy/d/j/h/exceed-helicopter-with-remote-control-charging-helicopter-toys-original-imaggvq7vqxgvh9k.jpeg?q=70",
-      "sellerId": 1,
-      "id": 6,
-      "productId": 6,
-      "userId": 1,
-      "quantity": 1
-    },
-    {
-      "name": "Atomberg Fan",
-      "price": "1000",
-      "color": "black",
-      "category": "home appliances",
-      "description": "\nStylishly crafted, Atomberg Renesa+ is the perfect complement to your home with its sleek, modern design. It is made with BLDC motor technology and is 5-star rated, using up to 65% less electricity",
-      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/fan/e/i/z/-original-imaggbzkqeczuvjt.jpeg?q=70",
-      "sellerId": 1,
-      "id": 7,
-      "productId": 7,
-      "userId": 1,
-      "quantity": 1
-    },
-    {
-      "name": "LG AI Convertible 6-in-1 Cooling ",
-      "price": "37990",
-      "color": "white",
-      "category": "home appliances",
-      "description": "You can keep your indoor environment cool and comfortable at all times with the LG RS-Q19ENXE 1.5-ton Split Air Conditioner.",
-      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/air-conditioner-new/4/k/b/-original-imagmpthcxx6frgy.jpeg?q=70",
-      "sellerId": 1,
-      "id": 8,
-      "productId": 8,
-      "userId": 1,
+      "userId": 8,
       "quantity": 1
     }
   ],
   "orders": [
+    {
+      "email": "jobi@gmail.com",
+      "contact": "098654324567890-08765",
+      "address": "kanniyakumari kk dist 629160",
+      "userId": 1,
+      "totalPrice": 498200,
+      "id": 1
+    }
   ]
 }
